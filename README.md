@@ -1,5 +1,5 @@
 # Pediatric Chest X-ray Image Classification
-<img src="resources/IM-0135-0001.jpeg" width="250">
+<img src="resources/IM-0135-0001.jpeg" width="400">
 
 
 ## Background
