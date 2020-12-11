@@ -36,6 +36,11 @@ chest_xray
 
 The project files are located on my personal Google Drive that must be shared and added to your own Google Drive to recreate the project as currently written.
 
+## Presentation
+Available at the pdf in this repo, or full presentation at this link.
+https://docs.google.com/presentation/d/1SdlY32Ac2sYzPgI47XhXPA95o7LxSLlrMaHC1BYpf8Q/edit?usp=sharing
+
+
 ## Dataset
 
 The dataset contains over 5800 pediatric frontal chest x-rays (black and white medical quality images)
