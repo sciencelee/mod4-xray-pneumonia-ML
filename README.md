@@ -1,4 +1,5 @@
 # Pediatric Chest X-ray Image Classification
+## Prediction with Convolutional Neural Network
 <img src="resources/IM-0135-0001.jpeg" width="400">
 
 
