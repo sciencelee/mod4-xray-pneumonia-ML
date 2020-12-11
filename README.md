@@ -1,5 +1,5 @@
 # Pediatric Chest X-ray Image Classification
-![xray](resources/IM-0135-0001.jpeg =250x)
+![xray](resources/IM-0135-0001.jpeg =250x250)
 
 ## Background
 In this project we will create a Machine Learning model to classify chest x-ray images as positive or negative for pneumonia.
